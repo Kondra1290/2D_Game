@@ -1,0 +1,8 @@
+﻿  Person.cpp
+C:\Users\shura\source\repos\2D_GAME\2D_GAME\Person.cpp(4,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\shura\source\repos\2D_GAME\2D_GAME\Person.cpp(4,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\shura\source\repos\2D_GAME\2D_GAME\Person.cpp(9,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\shura\source\repos\2D_GAME\2D_GAME\Person.cpp(62,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Player.cpp
+  Создание кода...
+  2D_GAME.vcxproj -> C:\Users\shura\source\repos\2D_GAME\x64\Debug\2D_GAME.exe
